@@ -1,0 +1,12 @@
+# C compiled executables
+a.out
+*.out
+
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+
+# Debug/build files
+*.d
