@@ -10,3 +10,5 @@ a.out
 
 # Debug/build files
 *.d
+
+.vscode/
