@@ -7,7 +7,8 @@ a.out
 
 # Executables
 *.exe
-q17
+q[0-9]*
+!q[0-9]*.c
 
 # Debug/build files
 *.d
