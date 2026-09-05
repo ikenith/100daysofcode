@@ -26,7 +26,6 @@ int main(){
         sum = (2*i+1) + sum;
     }
     printf("sum = %d\n", sum);
-
     
     return 0;
 }
